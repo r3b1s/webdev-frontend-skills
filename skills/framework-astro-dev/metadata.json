@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "organization": "workspace-hub",
+  "abstract": "Core Astro knowledge plus hard-won gotchas: the CSS scoping model (and how it silently breaks layout-authored styles for slotted/client-injected content), the Vite dev-server proxy rewriting Host and breaking same-origin checks, IPv4/IPv6 dev-server bind splits, location.replace dropping URL hashes, page-script render timing races against async state loads, and canvas chart library sizing/theming pitfalls.",
+  "category": "framework",
+  "tags": ["astro", "vite", "ssg", "ssr", "css-scoping", "dev-server", "dashboard"],
+  "platforms": ["web", "javascript", "typescript"],
+  "references": [
+    "https://docs.astro.build/en/concepts/why-astro/",
+    "https://docs.astro.build/en/guides/styling/#scoped-styles",
+    "https://docs.astro.build/en/guides/client-side-scripts/",
+    "https://vite.dev/config/server-options.html#server-proxy"
+  ]
+}

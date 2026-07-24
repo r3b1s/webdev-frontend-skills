@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "organization": "workspace-hub",
+  "abstract": "Create powerful interactive charts with Apache ECharts, balancing ease of use and extensive customization across chart types, TypeScript applications, responsive interfaces, maps, and large datasets.",
+  "category": "data-visualization",
+  "tags": ["charts", "echarts", "apache", "interactive", "typescript", "mobile"],
+  "platforms": ["web", "javascript", "typescript"],
+  "references": [
+    "https://echarts.apache.org/en/index.html",
+    "https://echarts.apache.org/examples/en/index.html",
+    "https://github.com/apache/echarts",
+    "https://github.com/ecomfe/awesome-echarts"
+  ]
+}
