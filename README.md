@@ -17,10 +17,10 @@ Install with the [skills CLI](https://github.com/vercel-labs/skills):
 
 ```bash
 # list available skills
-npx skills add <owner>/webdev-frontend-skills --list
+npx skills add r3b1s/webdev-frontend-skills --list
 
 # install the ECharts skill
-npx skills add <owner>/webdev-frontend-skills --skill echarts
+npx skills add r3b1s/webdev-frontend-skills --skill echarts
 ```
 
 ## Structure
